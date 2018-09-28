@@ -1,4 +1,4 @@
-# Inforgraphic
+# InforgraphicHTMLCODE
 Assignment 1: Infographic for Interactive. 
 
 <html>
